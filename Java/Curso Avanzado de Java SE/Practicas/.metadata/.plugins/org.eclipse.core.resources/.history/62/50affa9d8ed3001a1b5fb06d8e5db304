@@ -1,0 +1,5 @@
+package com.gilbertog.lambdas;
+
+public interface OnOneListener {
+
+}

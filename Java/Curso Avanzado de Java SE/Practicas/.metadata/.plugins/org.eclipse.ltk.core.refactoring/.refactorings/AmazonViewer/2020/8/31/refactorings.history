@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.gilbertog.amazonviewer.model.Movie.dateViewed&apos; in &apos;com.gilbertog.amazonviewer.model.Movie&apos;&#x0D;&#x0A;- Original project: &apos;AmazonViewer&apos;&#x0D;&#x0A;- Original element: &apos;com.gilbertog.amazonviewer.model.Movie.dateViewed&apos;&#x0D;&#x0A;- Getter method name: &apos;getDateViewed&apos;&#x0D;&#x0A;- Setter method name: &apos;setDateViewed&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;dateViewed&apos;" flags="589830" getter="getDateViewed" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.gilbertog.amazonviewer.model{Movie.java[Movie^dateViewed" insertion="10" setter="setDateViewed" stamp="1596240387701" version="1.0" visibility="1"/>
+</session>

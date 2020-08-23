@@ -1,0 +1,7 @@
+package com.gilbertog.lambdas;
+
+public interface OnOneListener {
+
+	void onOne (String message);
+	
+}
