@@ -1,0 +1,21 @@
+package com.gilbertog.lambdas;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		OnOneListener oneListener = new OnOneListener() {
+			
+			@Override
+			public void onOne(String message) {
+				// TODO Auto-generated method stub
+				System.out.println("One: " + message);
+			}
+		};
+		
+		OnOneListener oneListener2 = (String message) -> {};
+		
+	}
+
+}

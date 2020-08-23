@@ -1,0 +1,21 @@
+package com.gilbertog.amazonviewer.db;
+
+import com.mysql.jdbc.Connection;
+
+public interface IDBConnection {
+
+	default Connection connectToDB () {
+		Connection connection = null;
+		
+		try {
+			
+			Class.forName("com.mysql.jdbc.Driver");
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		} finally {
+			
+		}
+	}
+	
+}

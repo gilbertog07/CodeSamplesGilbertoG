@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.gilbertog.makereport.Report"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.model.Chapter"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.model.Film"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.model.IVisualizable"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.gilbertog.util.AmazonUtil"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.model.Book.Page"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.db.IDBConnection"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.db.DataBase"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.dao.MovieDAO"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.model.Movie"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.gilbertog.lambdas.OnOneListener"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="com.gilbertog.amazonviewer.model.Serie"/>
+</qualifiedTypeNameHistroy>

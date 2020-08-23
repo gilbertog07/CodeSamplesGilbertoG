@@ -1,0 +1,5 @@
+package com.gilbertog.amazonviewer.db;
+
+public interface IDBConnection {
+
+}

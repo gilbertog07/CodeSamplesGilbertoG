@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\gilberto.guerrero\OneDrive - ASI Group\DATA_GILBERTO\Otros\Otras Capacitaciones\REST API\Curso Básico de Java SE 2018\Practicas\.metadata\.plugins\org.eclipse.jdt.core
+3423253026.index
+2417640386.index
+3251249088.index
+3544086327.index
+523365190.index
